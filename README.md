@@ -7,7 +7,13 @@ windows 下先启用 uwf 功能。以 Windows 11 IoT 企业版 LTSC 24H2 为例
 4 启用 设备锁定的子项 统一写入筛选器
 5 点确定
 
-然后下载 uwf-manager.exe 并启动
+然后下载 uwf-manager.exe 用管理员权限启动
+## 下载地址
+临时下载地址
+
+https://github.com/joyanhui/uwf-manager/raw/refs/heads/main/uwf-manager.exe
+
+
 
 ## FAQ
 ### 部分参数的修改说明
