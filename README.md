@@ -1,3 +1,11 @@
+uwf-manager 
+ windows下的uwf配置工具
+ 基于 golang+fyne
+ 
+ 因为网络上前人写的已经停止更新，导致无法使用。而一直不怎么擅长记录win命令的我，还是决定写一个小工具来用。
+ 
+ 基于golang没有外部依赖，只是一个命令提醒工具。
+
 
 ## 使用
 windows 下先启用 uwf 功能。以 Windows 11 IoT 企业版 LTSC 24H2 为例
